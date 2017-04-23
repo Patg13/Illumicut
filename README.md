@@ -98,7 +98,8 @@ If you have any questions concerning this program, you send a mail to Patrick Ga
 In case of problem with the program, please open an issue in the Illumicut Github
 
 
-Licence :
+Licence information :
+
 FREEWARE LICENSE
 END-USER LICENSE AGREEMENT
 For Illumicut
