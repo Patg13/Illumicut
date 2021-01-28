@@ -1,5 +1,7 @@
 # Illumicut
 
+PROGRAM SOURCE CODE INCLUDED IN ADAPTI
+
 Illumicut is a C++ program specially designed to efficiently detect and remove forward and reverse sequencing primers in paired-end reconstructed sequences
 for now, this program can only detect a single forward primer and a single reverse primer.
 
